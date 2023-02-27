@@ -1,2 +1,2 @@
 # Predict-Product-Failures-Super-Soaker
-Synthetic data from a fictional company "Keep It Dry"
+This Tabular Playground Series is focusing on helping the fictional company Keep It Dry improve its main product Super Soaker
